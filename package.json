@@ -1,7 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "tgdatamodule",
   "version": "1.1.0",
+=======
+  "name": "rfmodule",
+  "version": "1.0.0",
+>>>>>>> 92890795dfa9896e62fb9ba0b555315873af064b
 =======
   "name": "rfmodule",
   "version": "1.0.0",
