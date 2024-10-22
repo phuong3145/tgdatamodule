@@ -1,5 +1,5 @@
 {
-  "name": "tgdatamodule",
+  "name": "rfmodule",
   "version": "1.0.0",
   "description": "Module for handling Telegram data",
   "main": "src/index.js",
@@ -11,8 +11,8 @@
   "author": "WPhuong",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
-    "puppeteer": "^13.0.0",
-    "https-proxy-agent": "^5.0.0"
+    "axios": "^1.6.8",
+    "puppeteer": "^22.10.0",
+    "https-proxy-agent": "^7.0.5"
   }
 }
