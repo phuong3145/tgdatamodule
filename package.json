@@ -1,16 +1,6 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "name": "tgdatamodule",
-  "version": "1.1.0",
-=======
-  "name": "rfmodule",
   "version": "1.0.0",
->>>>>>> 92890795dfa9896e62fb9ba0b555315873af064b
-=======
-  "name": "rfmodule",
-  "version": "1.0.0",
->>>>>>> 92890795dfa9896e62fb9ba0b555315873af064b
   "description": "Module for handling Telegram data",
   "main": "src/index.js",
   "type": "module",
@@ -21,8 +11,8 @@
   "author": "WPhuong",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.8",
-    "puppeteer": "^22.10.0",
-    "https-proxy-agent": "^7.0.5"
+    "axios": "^0.24.0",
+    "puppeteer": "^13.0.0",
+    "https-proxy-agent": "^5.0.0"
   }
 }
